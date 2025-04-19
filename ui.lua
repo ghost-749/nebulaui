@@ -3,9 +3,9 @@
 	Rayfield Interface Suite
 	by Sirius
 
-	shlex | Designing + Programming
-	iRay  | Programming
-	Max   | Programming
+	Ghost | Designing + Programming
+	TucoT9  | Programming
+	Zero   | Programming
 
 ]]
 
